@@ -2,4 +2,4 @@
 
 A simple key training program. Designed for voice typing. Can also be used for regular keyboards.
 
-![Talon Teacher][/talon_teach.gif]
+![Talon Teacher](/talon_teach.gif)
